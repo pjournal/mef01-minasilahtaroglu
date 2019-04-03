@@ -10,4 +10,4 @@ Analysis of credit card & debit card transactions of 2018, 12 (BKM) [Link](mina_
 The final project: The Turkish Music Popularity Analysis of Spotify
 - Project Explanation: [Link](Spotify_Analysis.html)
 - Step 1: [Link](Spotify_mina.html)
-- Step 1 PowerPoint: [Here](Spotify_Mina_Umre)
+- Step 1 PowerPoint: [Here](Spotify_Mina_Umre.pptx)
