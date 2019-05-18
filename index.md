@@ -1,7 +1,7 @@
 **About Me**  [Link](mina_silahtaroglu_assignment1.html)
 
 
-**ODD analysis** (Includes visualizations for the ODD data) [Link](mina_odd.html)
+**ODD Analysis** (Includes visualizations for the ODD data) [Link](mina_odd.html)
 
 
 **Analysis of credit card & debit card transactions of 2018, 12 (BKM)** [Link](mina_bkm.html)
