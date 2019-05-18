@@ -11,5 +11,5 @@
 - **Project Explanation:** [Link](Spotify_Analysis.html)
 - **Step 1:** [Link](Spotify_mina.html)
 - **Step 1 Documentation:** [Here](Spotify_v0.pdf)
-- **Step 2 Documentation:** [Here](Spotify_Mina_Umre_v1.pdf)
+- **Step 2 Documentation:** [Here](Spotify_Mina_Umre _v1.pdf)
 - **Final Version:** [Link](mina_son.html)
