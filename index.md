@@ -14,4 +14,4 @@
 - **Step 2 Documentation:** [Here](Spotify_Mina_Umre_v1.pdf)
 - **Final Version:** [Link](mina_son.html) 
 - **Shiny** app couldn't be shared, since the error is not solved. 
-    Can be accesssed via uploaded files / with the workspace image.
+    Can be accesssed via uploaded files / with the workspace image. [Click](https://github.com/pjournal/mef01-minasilahtaroglu/tree/master/shiny)
