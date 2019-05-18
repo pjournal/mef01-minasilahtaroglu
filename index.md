@@ -12,4 +12,4 @@
 - **Step 1:** [Link](Spotify_mina.html)
 - **Step 1 PowerPoint:** [Here](Spotify_Mina_Umre.pptx)
 - **Step 2 PowerPoint:** [Here](Spotify_Mina_Umre_v1.pptx)
-- **Final Version:** [Here]
+- **Final Version:** [Here](mina_son.html)
