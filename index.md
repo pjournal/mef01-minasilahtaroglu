@@ -1,4 +1,4 @@
-**First assignment:** About Me [Link](mina_silahtaroglu_assignment1.html)
+**About Me**  [Link](mina_silahtaroglu_assignment1.html)
 
 
 **ODD analysis** (Includes visualizations for the ODD data) [Link](mina_odd.html)
