@@ -11,5 +11,5 @@
 - **Project Explanation:** [Link](Spotify_Analysis.html)
 - **Step 1:** [Link](Spotify_mina.html)
 - **Step 1 PowerPoint:** [Here](Spotify_Mina_Umre.pptx)
-- **Step 2 PowerPoint:** [Here]
+- **Step 2 PowerPoint:** [Here](Spotify_Mina_Umre - v1.pptx)
 - **Final Version:** [Here]
